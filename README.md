@@ -179,8 +179,8 @@ From this project, I learned to:
 <h2 id="author--contact">Author & Contact</h2>
 
 **Milind Bagad**  
-📧 Email: **milindbagad7@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/milind-bagad-82786a224  
-💻 GitHub: https://github.com/Milind5  
+📧 Email: (milindbagad7@gmail.com)  
+🔗 LinkedIn: (https://www.linkedin.com/in/milind-bagad-82786a224)  
+💻 GitHub(https://github.com/Milind5)
 
 ---
