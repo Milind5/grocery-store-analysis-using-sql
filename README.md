@@ -180,7 +180,6 @@ From this project, I learned to:
 
 **Milind Bagad**  
 📧 Email: (milindbagad7@gmail.com)  
-🔗 LinkedIn: (https://www.linkedin.com/in/milind-bagad-82786a224)  
-💻 GitHub(https://github.com/Milind5)
+🔗 [LinkedIn](https://www.linkedin.com/in/milind-bagad-82786a224)  | 💻 [GitHub0(https://github.com/Milind5)
 
 ---
